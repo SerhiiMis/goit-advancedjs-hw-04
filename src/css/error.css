@@ -1,0 +1,12 @@
+.iziToast-close {
+  background-image: none;
+  color: white;
+  font-size: 20px;
+  line-height: 42px;
+  text-align: center;
+}
+
+.iziToast-close:before {
+  content: '×';
+  color: white;
+}
